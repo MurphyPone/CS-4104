@@ -1,5 +1,5 @@
 # CS-4104
-Some implementations of the algorithms discusses and assigned in CS-4104.  Notes, problem sets, and formal solutions can be found [here](https://www.murphyandhislaw.com/blog/algorithm-notes).
+Some implementations of the algorithms discussed and assigned in CS-4104.  Notes, problem sets, and formal solutions can be found [here](https://www.murphyandhislaw.com/blog/algorithm-notes).
 
 ## Graphs
 
